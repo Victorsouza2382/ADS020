@@ -1,12 +1,7 @@
-<%-- 
-    Document   : erro.jsp
-    Created on : 25/03/2020, 19:56:13
-    Author     : victo
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page isErrorPage="true"%>
-
 <!DOCTYPE html>
 <html>
     <head>
